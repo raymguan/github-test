@@ -1,1 +1,2 @@
 Hello, this is a random test file.
+I am adding another line to this test file.
